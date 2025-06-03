@@ -1,0 +1,1 @@
+I had a bit of experience with git and github. But it's definitely helpful to create repository, get familiarized with basic commands like git add., git commit and git push. which are essential for remote repos. One new command I learned was "touch" which creates files.
